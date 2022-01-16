@@ -1,10 +1,10 @@
-let one = 'one'; 
+let one = 1; 
 
-let two = 'two';
+let two = 2;
 
-let three = 'three';
+let three = 3;
 
-let arrey = [one, two, three];
+let arrey = [1, 2, 3];
 
 console.log(arrey)
 
