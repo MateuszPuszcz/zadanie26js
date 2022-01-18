@@ -4,7 +4,7 @@ let two = 2;
 
 let three = 3;
 
-let arrey = [1, 2, 3];
+let arrey = [one, two, three];
 
 console.log(arrey)
 
